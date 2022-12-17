@@ -1,0 +1,10 @@
+55	0	0	2022-01-23	Arsenal	Burnley		D
+56	1	0	2022-02-10	Arsenal	Wolves	W
+57	1	0	2022-02-19	Arsenal	Brentford		W
+58	1	1	2022-02-24	Arsenal	Wolves	W
+59	1	1	2022-03-06	Arsenal	Watford		W
+60	1	1	2022-03-13	Arsenal	Leicester City	W
+61	0	1	2022-03-16	Arsenal	Liverpool		L
+62	1	0	2022-03-19	Arsenal	Aston Villa		W
+63	0	0	2022-04-04	Arsenal	Crystal Palace	L
+64	0	0	2022-04-09	Arsenal	Brighton		L
